@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /aniabui-cv.pdf
+
+User-agent: *
+Disallow: /aniabui-cv
